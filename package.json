@@ -1,0 +1,23 @@
+{
+  "name": "ajs-8-modules-esm",
+  "version": "1.0.0",
+  "description": "native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cazuist/ajs-8-Modules-ESM.git"
+  },
+  "author": "Cazuist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cazuist/ajs-8-Modules-ESM/issues"
+  },
+  "homepage": "https://github.com/Cazuist/ajs-8-Modules-ESM#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
